@@ -1,0 +1,7 @@
+READ ME Y3837076
+
+To use this program you must run it from assingmentMain as this is where the main functionality is.
+There is an executable Java file which will allow you to see the program working with out opening the IDE 
+
+NOTE
+Files may need to be imported into the workspace. This can be done through the menu bar.
